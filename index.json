@@ -15,7 +15,9 @@
       "repository": "https://github.com/jieapi/aicode-plugin-desktop-pet",
       "logo": "https://raw.githubusercontent.com/jieapi/aicode-plugin-desktop-pet/main/icons/icon.png",
       "license": "MIT",
-      "tags": ["ui"],
+      "tags": [
+        "ui"
+      ],
       "version": "1.0.0"
     },
     {
@@ -32,8 +34,30 @@
       "author": "jieapi",
       "repository": "https://github.com/jieapi/aicode-plugin-remote-ports",
       "license": "MIT",
-      "tags": ["tool", "ui"],
+      "tags": [
+        "tool",
+        "ui"
+      ],
       "version": "1.0.0"
+    },
+    {
+      "id": "wxichen.dsh-pet",
+      "name": {
+        "default": "DSH Pet",
+        "zh-CN": "AiCode 桌宠"
+      },
+      "description": {
+        "default": "A floating desktop pet adapted from dsh-pet for AiCode. It plays transparent animations, reacts to AiCode runs, speaks lines generated from a persona, and can be controlled by AI tools.",
+        "zh-CN": "将 dsh-pet 适配到 AiCode 的悬浮桌宠：播放透明动画、响应 AiCode 运行状态、按人设生成台词，并支持 AI 工具控制与摸头喂食互动。"
+      },
+      "author": "wxichen",
+      "repository": "https://github.com/wxichen/aicode-plugins",
+      "logo": "https://raw.githubusercontent.com/wxichen/aicode-plugins/main/dsh-pet/assets/logo.png",
+      "license": "MIT",
+      "tags": [
+        "ui"
+      ],
+      "version": "0.2.1"
     }
   ]
 }
