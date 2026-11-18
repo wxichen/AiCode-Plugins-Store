@@ -58,6 +58,25 @@
         "ui"
       ],
       "version": "0.3.5"
+    },
+    {
+      "id": "wxichen.kgka-music",
+      "name": {
+        "default": "KA Music",
+        "zh-CN": "KA 音乐"
+      },
+      "description": {
+        "default": "Search Kugou songs and sign in with a phone number or QR code inside AiCode. Playback is left to the system.",
+        "zh-CN": "在 AiCode 里搜索酷狗歌曲，支持手机验证码与扫码登录。接口沿用开源项目 kgka_Music_hl 的公开服务。"
+      },
+      "author": "wxichen",
+      "repository": "https://github.com/wxichen/aicode-plugins",
+      "license": "MIT",
+      "tags": [
+        "tool",
+        "ui"
+      ],
+      "version": "0.1.0"
     }
   ]
 }
